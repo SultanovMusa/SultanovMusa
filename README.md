@@ -1,13 +1,8 @@
 ###
 
-<h1 align=" center" > Assalamu Alaikum 👋I'm Mustafa</h1>
+ <p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=1&pause=1000&center=true&repeat=false&width=510&height=60&lines=Mustafa+Sultanov+👋" alt="Typing SVG" /></a>
 <hr/>
-
-<div style="display: flex; justify-content: center; align-items: center;">
-<a href="https://github.com/Mustafa)"><img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Mustafa&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117">
-</a>
-<a href="https://github.com/Mustafa"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa&langs_count=8&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
-</a>
-</div>
-
-
+<a href="https://git.io/typing-svg"><img  src="https://readme-typing-svg.herokuapp.com?font=Fra+Code&lines=I+am+a+front-end+developer+from+Kyrgyzstan" alt="Typing SVG" /></a>
+</p>
+ <p>
