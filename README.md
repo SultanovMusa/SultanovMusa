@@ -5,8 +5,7 @@
  <hr/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=100&center=true&width=510&lines=I+am+a+front-end+developer+from+Kyrgyzstan" alt="Typing SVG" /></a>
 </p>
- <p>
-
+ <p><h3 align="left">Connect with me:</h3>
   <br>
       <a href="https://web.telegram.org/k/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
