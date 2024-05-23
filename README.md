@@ -10,7 +10,7 @@
  <p><h3 align="left">Connect with me:</h3>
   <br>
       <a href="https://web.telegram.org/k/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png](https://t.me/Mufa_Sultanov" width="40" height="40" alt="telegram group" />
     </a>
    <a href="https://www.instagram.com/sultanov_11_/" target="_blank">
       <img src="https://user-images.githubusercontent.com/36131492/158049056-56e3a853-a309-4bc5-a85a-a03fa8e51ce8.png" width="40" height="40" alt="Instagram"/>
