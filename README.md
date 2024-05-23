@@ -9,12 +9,11 @@
   <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
  <p><h3 align="left">Connect with me:</h3>
   <br>
-      <a href="https://t.me/Mufa_Sultanov">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png](https://t.me/Mufa_Sultanov" width="40" height="40" alt="telegram group" />
-    </a>
-   <a href="https://www.instagram.com/sultanov_11_/" target="_blank">
-      <img src="https://user-images.githubusercontent.com/36131492/158049056-56e3a853-a309-4bc5-a85a-a03fa8e51ce8.png" width="40" height="40" alt="Instagram"/>
-    </a>
+   <div class="contacts">
+  <a href="https://wa.me/996990385056"><img src="https://img.shields.io/badge/-WhatsApp-090909?style=for-the-badge&logo=WhatsApp&logoColor=4ECB5A"></a>
+  <a href="https://t.me/Mufa_Sultanov"><img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9"></a>
+  <a href="https://www.instagram.com/sultanov_11_/"><img src="https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E"></a>
+</div>
 <hr/>
 <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=100&center=true&width=510&lines=Languages+and+Tools:" alt="Typing SVG" /></a>
 
