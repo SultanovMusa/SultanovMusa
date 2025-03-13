@@ -11,7 +11,7 @@
   <br>
    <div class="contacts">
   <a href="https://wa.me/996551366001"><img src="https://img.shields.io/badge/-WhatsApp-090909?style=for-the-badge&logo=WhatsApp&logoColor=4ECB5A"></a>
-  <a href="https://t.me/Mufa_Sultanov"><img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9"></a>
+  <a href="[https://t.me/Mufa_Sultanov](https://t.me/MufaGoraBot)"><img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9"></a>
   <a href="https://www.instagram.com/sultanov_11_/"><img src="https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E"></a>
 </div>
 <hr/>
